@@ -1,0 +1,38 @@
+div{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+body {
+    display:flex;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+
+}
+
+h2{
+    display: block;
+    text-align: center;
+    padding: 30px;
+    /* height: 200px ;
+    width: 600px; */
+    background-color: aqua;
+    border-radius: 20px;
+    border: 2px solid black;
+ 
+}
+   
+}
+button {
+    height: 30px;
+    width: 60px;
+    /* margin-left: 850px; */
+     text-align: center; 
+}
+h1{
+    text-align: center;
+    color: red;
+}
